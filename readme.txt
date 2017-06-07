@@ -1,2 +1,1 @@
-This is a simple practise
-lalal
+This is my first git project
